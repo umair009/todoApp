@@ -7,6 +7,7 @@ const Home = ({ store }) => {
     }
     function addSubject() {
         store.addSubject('Physic')
+        
 
     }
     return (
